@@ -1,6 +1,6 @@
 <?php include_once('./data.php'); ?>
 
-<img src="http://localhost/img/dijkstra_example.png">
+<img src="http://localhost:8000/img/dijkstra_example.png">
 
 <form method="POST" action="dijkstra.php">
     <label for="departure">Partenza</label>
